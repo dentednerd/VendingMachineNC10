@@ -1,0 +1,4 @@
+export const INSERT_COIN = 'INSERT_COIN';
+export const REPLENISH_STOCK = 'REPLENISH_STOCK';
+export const UPDATE_DISPLAY = 'UPDATE_DISPLAY';
+export const DISPENSE_ITEM = 'DISPENSE_ITEM';
