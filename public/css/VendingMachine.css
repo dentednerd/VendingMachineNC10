@@ -1,0 +1,23 @@
+.vendingMachine {
+    background-color:#aaa;
+    width:50%;
+    margin: 0 auto;
+    padding:20px;
+    border-radius:20px;
+}
+
+.vendingMachine ul {
+    background-color: #fff;
+    border-radius: 20px;
+}
+
+.vendingMachine ul li {
+    padding: 20px 0;
+    list-style: none;
+}
+
+.vendingMachine ul li .quantity {
+    font-weight: bold;
+    
+}
+

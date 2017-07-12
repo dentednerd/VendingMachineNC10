@@ -88,7 +88,7 @@ describe('reducer', () => {
              
             const action = actions.dispenseItem('A1');
             const newState = reducer(tempState, action);
-            expect(newState.float).to.equal({
+            expect(newState.float).to.eql({
             '200': 10,    
             '100': 10,    
             '50': 10,    
